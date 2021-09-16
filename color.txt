@@ -1,5 +1,7 @@
+Unicode and color
 Black
 Yellow
 Red
 Blue
 Purple
+Unicode
